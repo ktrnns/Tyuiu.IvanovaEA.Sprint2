@@ -22,7 +22,7 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task1.V13
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.Title = "Спринт #1 | Выполнила: Иванова Е. А. | ПИНб-26-1";
+            Console.Title = "Спринт #2 | Выполнила: Иванова Е. А. | ПИНб-26-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
