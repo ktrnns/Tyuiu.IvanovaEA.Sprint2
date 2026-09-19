@@ -35,8 +35,8 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task0.V15
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("* Формула: X = " + x);
-            Console.WriteLine("* Формула: Y = " + y);
+            Console.WriteLine("* X = " + x);
+            Console.WriteLine("* Y = " + y);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
