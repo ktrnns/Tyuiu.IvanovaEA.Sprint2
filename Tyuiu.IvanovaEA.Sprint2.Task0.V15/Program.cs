@@ -10,7 +10,7 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task0.V15
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
 
             int x = 3105;
             int y = 275;
