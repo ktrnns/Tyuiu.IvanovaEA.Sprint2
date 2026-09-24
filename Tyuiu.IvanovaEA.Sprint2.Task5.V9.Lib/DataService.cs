@@ -19,24 +19,24 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task5.V9.Lib
 
             switch (m)
             {
-                case 1:  // Январь
-                case 3:  // Март
-                case 5:  // Май
-                case 7:  // Июль
-                case 8:  // Август
-                case 10: // Октябрь
-                case 12: // Декабрь
+                case 1:  // январь
+                case 3:  // март
+                case 5:  // май
+                case 7:  // июль
+                case 8:  // август
+                case 10: // октябрь
+                case 12: // декабрь
                     daysInMonth = 31;
                     break;
 
-                case 4:  // Апрель
-                case 6:  // Июнь
-                case 9:  // Сентябрь
-                case 11: // Ноябрь
+                case 4:  // апрель
+                case 6:  // июнь
+                case 9:  // сентябрь
+                case 11: // ноябрь
                     daysInMonth = 30;
                     break;
 
-                case 2:  // Февраль
+                case 2:  // яевраль
                     daysInMonth = 28;
                     break;
 

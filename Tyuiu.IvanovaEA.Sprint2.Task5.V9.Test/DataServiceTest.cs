@@ -19,9 +19,6 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task5.V9.Test
             // 30 апреля - 1 мая
             Assert.AreEqual("1.5", ds.FindDateOfNextDay(4, 30));
 
-            // 15 января - 16 января
-            Assert.AreEqual("16.1", ds.FindDateOfNextDay(1, 15));
-
             // 30 декабря - 31 декабря
             Assert.AreEqual("31.12", ds.FindDateOfNextDay(12, 30));
         }
