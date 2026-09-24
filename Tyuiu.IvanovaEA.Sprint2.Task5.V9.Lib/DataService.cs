@@ -59,7 +59,7 @@ namespace Tyuiu.IvanovaEA.Sprint2.Task5.V9.Lib
                 nextN = 1;
             }
 
-            return ($"{nextN}.{nextM}");
+            return ($"{nextN:D2}.{nextM:D2}");
         }
     }
 }
